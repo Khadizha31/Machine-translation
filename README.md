@@ -14,11 +14,14 @@
 
 ### Источники
 Джез Хамбл, Дейвид Фарли. Непрерывное развертывание ПО: Автоматизация процессов сборки, тестирования и внедрения новых версий программ (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation). — Addison-Wesley Professional, 2010.
-https://www.multitran.com/ 
-https://dictionary.cambridge.org/
-https://glosbe.com/ 
-ENCODED - Определение и значение - Английский словарь Reverso
 
+https://www.multitran.com/ 
+
+https://dictionary.cambridge.org/
+
+https://glosbe.com/ 
+
+https://xn--80ad0ammb6f.reverso.net/
 
 ### Полученный результат
 В ходе выполнения работы был написан код на Python, который успешно справляется со всеми поставленными задачами. Программа прошла все 5 встроенных автотестов без ошибок.
