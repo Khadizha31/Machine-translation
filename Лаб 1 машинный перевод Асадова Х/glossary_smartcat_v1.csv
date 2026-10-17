@@ -1,0 +1,101 @@
+﻿Source (en),Target (ru),Comment
+deployment,развертывание,"An implementation, or putting into use, of something."
+continuous integration,технология непрерывной интеграции,The practice of merging all branches to a shared mainline several times a day.
+deployment pipeline,конвейер развертывания,"An automated implementation of your application's build, deploy, test, and release process."
+installer,инсталлятор,A program that installs software and prepares it for use.
+binary code,бинарный код,A code that uses only the numbers 0 and 1.
+feedback,обратная связь,Critical assessment of a process or activity or of their results.
+web server,веб-сервер,Software that delivers web pages and other documents to browsers using the HTTP protocol.
+release,релиз,The distribution of an initial or new and upgraded version of a computer software product.
+manually,вручную,"By hand, using your hands."
+result,результат,A positive result or consequence.
+documentation,документация,Documents that explain the operation of a particular software program.
+development team,команда разработчиков,Team of software development experts.
+automated,автоматизированный,Carried out by machines or computers without needing human control.
+tester,тестировщик,A person or a machine that tests something.
+application,приложение,A computer program that is designed for a particular purpose.
+version control,управление версиями,The process of maintaining a database of all the source code and related files in a software development project to keep track of changes made during the project.
+URL,URL-адрес,Abbreviation for uniform resource locator: a website address.
+rollback,откат,"An operation which returns a database, or group of records in a database, to a previous state."
+cycle time,продолжительность цикла,"The time it takes from deciding to make a change, whether a bugfix or a feature, to having it available to users."
+configuration,конфигурация,The way in which all the equipment that makes up a computer system is set to operate.
+component,компонент,"One of the parts of a system, process, or machine."
+executable code,исполняемый код,Instructions for a computer in a form the computer can directly use.
+source code,исходный код,"Human-readable instructions in a programming language, to be transformed into machine instructions by a compiler, assembler or other translator, or to be carried out directly by an interpreter."
+performance,производительность,The total amount that can be contained or produced.
+customer,заказчик,A person or an organization that buys a product or service.
+fault,ошибка,Something that is wrong with a machine or system.
+user interface,пользовательский интерфейс,"The way in which the information on a computer, phone, etc. and instructions on how to use it are arranged on the screen and shown to the user."
+hardware,оборудование,Equipment or the physical and electronic parts of a computer.
+lean manufacturing,бережливое производство,The business of producing goods in large numbers using methods that avoid waste and reduce the time taken.
+version,версия,Particular form of something that is slightly different from other forms of the same thing.
+button,кнопка,"A small, sometimes circular object that you press to operate a device or a machine, or an area on a computer screen that looks and acts like one of these."
+flexibility,гибкость,The ability to change or be changed easily according to the situation.
+analyst,аналитик,"Someone whose job is to study or examine something in detail, in order to discover or understand more about it and often to make predictions relating to it."
+configuration management,управление конфигурациями,"The process by which all artifacts relevant to your project, and the relationships between them, are stored, retrieved, uniquely identified, and modified."
+compiler,компилятор,A computer program that changes instructions into machine language.
+release candidate,релиз-кандидат,A version of a program that is nearly ready for release but may still have a few bugs.
+defect,дефект,A fault that spoils something or causes it not to work correctly.
+functionality,функциональность,Any or all of the operations performed by a piece of equipment or a software program.
+collaborate,сотрудничать,To work together with others to achieve a common goal.
+fundamentals,основы,The main or most important rules or parts.
+stack,стек,A way of storing data on a computer so that the last piece of data to be stored is the first one to be found by the computer.
+snapshot,снимок,"A file or set of files captured at a particular time, capable of being reloaded to restore the earlier state."
+settings,параметры,Personal configuration options that allow users to customize their applications or operating system.
+store,хранить,To put or keep something somewhere until it is needed.
+procedures,процедуры,Set of instructions in a computer program that does a particular task.
+project managers,менеджеры проекта,Someone whose job is to plan a piece of work or activity and organize the work of all the people involved in it.
+file,файл,Information stored on a computer as one unit with one name.
+subsystems,подсистемы,A system that forms part of a larger system.
+virtual machines,виртуальные машины,Computer system that is created by software on one computer to copy the operations performed by a separate computer.
+delete,удалять,"To remove data, documents, programs, etc. from a computer."
+branch,ветвь,A part of something larger.
+description,описание,Something that tells you what something or someone is like.
+debugging,отладка,To remove bugs or mistakes from a computer program.
+libraries,библиотеки,A collection of subprograms used to develop software.
+modules,модули,"A section of a program, a subroutine."
+copies,копии,Something that is exactly like another thing.
+interpreted language,интерпретируемый язык,Programming language for which most of its implementations execute instructions directly.
+external,внешние,"Outside of something, on the exterior."
+correlate,согласовывать,To compare things and bring them into a relation having corresponding characteristics.
+split,разбить,To divide into two or more parts.
+recompilation,перекомпиляция,"Compiling a computer program for a second, third, etc. time."
+run time,время выполнения,The time during which a program is executing.
+pitfalls,ловушки,Unexpected danger or difficulty.
+programming languages,языки программирования,"A set of rules, words, etc. that are used for writing computer programs."
+directory,каталог,A structured listing of the names and characteristics of the files on a storage device.
+repository,хранилище,"A place where something is deposited, as for storage, safekeeping, or preservation."
+filesystem,файловая система,A method of organizing blocks on a storage device into files and directories.
+digital certificates,цифровые сертификаты,Digital documents that are commonly used for authentication and to help secure information on a network.
+encrypted,зашифрованный,Converted into a coded form.
+authentication,аутентификация,Process of verifying identity or validity.
+remotely,удаленно,From a distance.
+change history,история изменений,Information that is maintained about changes made in past editing sessions.
+on demand,по требованию,Whenever needed or requested.
+cluster,кластер,A group of computers connected together to work as one larger computer and to improve their performance.
+record,запись,A single row in a relational database.
+smoke tests,дымовые тесты,Basic test to ensure a system won't fail on start.
+installation,инсталляция,Act of setting up equipment or software.
+lifecycle,жизненный цикл,Series of developments from beginning to end of usefulness.
+infrastructure,инфраструктура,"The equipment, software, etc. that a computer system needs in order to operate and communicate with other computers."
+file descriptors,дескрипторы,Stored information that names or identifies something in a system.
+performance,производительность,The amount of useful work accomplished by a computer system compared to the time and resources used.
+environment,среда,The system in which a computer or computer program operates.
+software packages,пакеты ПО,Suite of programs working together for tasks.
+topology,топология,Arrangement of nodes in a communications network.
+baseline,базовая среда,An environment that is in a properly deployed state.
+from scratch,с нуля,From the beginning.
+working state,работоспособное состояние,Good condition or operational state.
+command line,командная строка,Interface for typing text commands to a computer.
+codebase,кодовая база,The body of source code (and possibly auxiliary data files) used to create a particular computer program.
+unit tests,модульные тесты,Tests of a single component of software.
+network,сеть,Number of computers that are connected together so that they can share information.
+component tests,тесты компонентов,Tests of the behavior of several components of the application.
+colleagues,коллеги,People you work with in a job.
+revert,отменить,Return to a previous state or condition.
+extreme programming,экстремальное программирование,A software engineering methodology prescribing a set of daily stakeholder practices taken to extreme levels.
+refactoring,рефакторинг,"Making a series of small, incremental changes that improve your code without changing your application's behavior."
+architecture,архитектура,Structure and organization of computer systems.
+productivity,продуктивность,State of being efficient and productive.
+reports,отчеты,A spoken or written description of an event or situation.
+workload,нагрузка,The amount of work assigned to a particular worker.

@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossary EN-RU: Информационные технологии: разработка ПО и DevOps</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Lab 01, variant 1, generated automatically</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="tid-001">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>deployment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An implementation, or putting into use, of something.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>развертывание</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-002">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>continuous integration</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The practice of merging all branches to a shared mainline several times a day.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>технология непрерывной интеграции</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-003">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>deployment pipeline</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An automated implementation of your application's build, deploy, test, and release process.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>конвейер развертывания</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-004">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>installer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A program that installs software and prepares it for use.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инсталлятор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-005">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>binary code</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A code that uses only the numbers 0 and 1.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>бинарный код</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-006">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>feedback</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Critical assessment of a process or activity or of their results.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обратная связь</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-007">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>web server</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Software that delivers web pages and other documents to browsers using the HTTP protocol.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>веб-сервер</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-008">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>release</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The distribution of an initial or new and upgraded version of a computer software product.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>релиз</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-009">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>manually</term>
+            <termNote type="partOfSpeech">adverb</termNote>
+            <descrip type="definition">By hand, using your hands.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вручную</term>
+              <termNote type="partOfSpeech">adverb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-010">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>result</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A positive result or consequence.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>результат</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-011">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>documentation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Documents that explain the operation of a particular software program.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>документация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-012">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>development team</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Team of software development experts.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>команда разработчиков</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-013">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>automated</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <descrip type="definition">Carried out by machines or computers without needing human control.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>автоматизированный</term>
+              <termNote type="partOfSpeech">adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-014">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tester</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A person or a machine that tests something.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тестировщик</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-015">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>application</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A computer program that is designed for a particular purpose.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>приложение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-016">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>version control</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process of maintaining a database of all the source code and related files in a software development project to keep track of changes made during the project.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>управление версиями</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-017">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>URL</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Abbreviation for uniform resource locator: a website address.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>URL-адрес</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-018">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>rollback</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An operation which returns a database, or group of records in a database, to a previous state.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>откат</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-019">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cycle time</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The time it takes from deciding to make a change, whether a bugfix or a feature, to having it available to users.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>продолжительность цикла</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-020">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>configuration</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The way in which all the equipment that makes up a computer system is set to operate.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>конфигурация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-021">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>component</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">One of the parts of a system, process, or machine.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>компонент</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-022">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>executable code</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Instructions for a computer in a form the computer can directly use.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>исполняемый код</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-023">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>source code</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Human-readable instructions in a programming language, to be transformed into machine instructions by a compiler, assembler or other translator, or to be carried out directly by an interpreter.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>исходный код</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-024">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>performance</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The total amount that can be contained or produced.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>производительность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-025">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>customer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A person or an organization that buys a product or service.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>заказчик</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-026">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fault</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Something that is wrong with a machine or system.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ошибка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-027">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>user interface</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The way in which the information on a computer, phone, etc. and instructions on how to use it are arranged on the screen and shown to the user.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пользовательский интерфейс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-028">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hardware</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Equipment or the physical and electronic parts of a computer.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>оборудование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-029">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>lean manufacturing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The business of producing goods in large numbers using methods that avoid waste and reduce the time taken.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>бережливое производство</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-030">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>version</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Particular form of something that is slightly different from other forms of the same thing.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>версия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-031">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>button</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A small, sometimes circular object that you press to operate a device or a machine, or an area on a computer screen that looks and acts like one of these.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кнопка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-032">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>flexibility</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The ability to change or be changed easily according to the situation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гибкость</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-033">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>analyst</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Someone whose job is to study or examine something in detail, in order to discover or understand more about it and often to make predictions relating to it.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аналитик</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-034">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>configuration management</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process by which all artifacts relevant to your project, and the relationships between them, are stored, retrieved, uniquely identified, and modified.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>управление конфигурациями</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-035">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>compiler</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A computer program that changes instructions into machine language.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>компилятор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-036">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>release candidate</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A version of a program that is nearly ready for release but may still have a few bugs.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>релиз-кандидат</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-037">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>defect</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A fault that spoils something or causes it not to work correctly.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дефект</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-038">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>functionality</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Any or all of the operations performed by a piece of equipment or a software program.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>функциональность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-039">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>collaborate</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To work together with others to achieve a common goal.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сотрудничать</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-040">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fundamentals</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The main or most important rules or parts.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>основы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-041">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>stack</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A way of storing data on a computer so that the last piece of data to be stored is the first one to be found by the computer.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стек</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-042">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>snapshot</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A file or set of files captured at a particular time, capable of being reloaded to restore the earlier state.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>снимок</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-043">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>settings</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Personal configuration options that allow users to customize their applications or operating system.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>параметры</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-044">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>store</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To put or keep something somewhere until it is needed.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>хранить</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-045">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>procedures</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Set of instructions in a computer program that does a particular task.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>процедуры</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-046">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>project managers</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Someone whose job is to plan a piece of work or activity and organize the work of all the people involved in it.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>менеджеры проекта</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-047">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>file</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Information stored on a computer as one unit with one name.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>файл</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-048">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>subsystems</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A system that forms part of a larger system.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>подсистемы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-049">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>virtual machines</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Computer system that is created by software on one computer to copy the operations performed by a separate computer.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>виртуальные машины</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-050">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>delete</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To remove data, documents, programs, etc. from a computer.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>удалять</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-051">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>branch</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A part of something larger.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ветвь</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-052">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>description</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Something that tells you what something or someone is like.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>описание</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-053">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>debugging</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">To remove bugs or mistakes from a computer program.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>отладка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-054">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>libraries</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A collection of subprograms used to develop software.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>библиотеки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-055">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>modules</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A section of a program, a subroutine.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>модули</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-056">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>copies</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Something that is exactly like another thing.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>копии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-057">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>interpreted language</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Programming language for which most of its implementations execute instructions directly.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>интерпретируемый язык</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-058">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>external</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <descrip type="definition">Outside of something, on the exterior.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внешние</term>
+              <termNote type="partOfSpeech">adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-059">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>correlate</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To compare things and bring them into a relation having corresponding characteristics.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>согласовывать</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-060">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>split</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To divide into two or more parts.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>разбить</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-061">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>recompilation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Compiling a computer program for a second, third, etc. time.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>перекомпиляция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-062">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>run time</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The time during which a program is executing.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>время выполнения</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-063">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pitfalls</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Unexpected danger or difficulty.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ловушки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-064">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>programming languages</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A set of rules, words, etc. that are used for writing computer programs.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>языки программирования</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-065">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>directory</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A structured listing of the names and characteristics of the files on a storage device.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>каталог</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-066">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>repository</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A place where something is deposited, as for storage, safekeeping, or preservation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>хранилище</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-067">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>filesystem</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A method of organizing blocks on a storage device into files and directories.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>файловая система</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-068">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>digital certificates</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Digital documents that are commonly used for authentication and to help secure information on a network.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цифровые сертификаты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-069">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>encrypted</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <descrip type="definition">Converted into a coded form.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>зашифрованный</term>
+              <termNote type="partOfSpeech">adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-070">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>authentication</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Process of verifying identity or validity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аутентификация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-071">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>remotely</term>
+            <termNote type="partOfSpeech">adverb</termNote>
+            <descrip type="definition">From a distance.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>удаленно</term>
+              <termNote type="partOfSpeech">adverb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-072">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>change history</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Information that is maintained about changes made in past editing sessions.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>история изменений</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-073">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>on demand</term>
+            <termNote type="partOfSpeech">adverb</termNote>
+            <descrip type="definition">Whenever needed or requested.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>по требованию</term>
+              <termNote type="partOfSpeech">adverb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-074">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cluster</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A group of computers connected together to work as one larger computer and to improve their performance.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кластер</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-075">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>record</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A single row in a relational database.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>запись</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-076">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>smoke tests</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Basic test to ensure a system won't fail on start.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дымовые тесты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-077">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>installation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Act of setting up equipment or software.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инсталляция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-078">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>lifecycle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Series of developments from beginning to end of usefulness.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>жизненный цикл</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-079">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>infrastructure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The equipment, software, etc. that a computer system needs in order to operate and communicate with other computers.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инфраструктура</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-080">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>file descriptors</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Stored information that names or identifies something in a system.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дескрипторы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-081">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>performance</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The amount of useful work accomplished by a computer system compared to the time and resources used.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>производительность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-082">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>environment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The system in which a computer or computer program operates.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>среда</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-083">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>software packages</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Suite of programs working together for tasks.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пакеты ПО</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-084">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>topology</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Arrangement of nodes in a communications network.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>топология</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-085">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>baseline</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An environment that is in a properly deployed state.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>базовая среда</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-086">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>from scratch</term>
+            <termNote type="partOfSpeech">adverb</termNote>
+            <descrip type="definition">From the beginning.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>с нуля</term>
+              <termNote type="partOfSpeech">adverb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-087">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>working state</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Good condition or operational state.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>работоспособное состояние</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-088">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>command line</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Interface for typing text commands to a computer.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>командная строка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-089">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>codebase</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The body of source code (and possibly auxiliary data files) used to create a particular computer program.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кодовая база</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-090">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>unit tests</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Tests of a single component of software.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>модульные тесты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-091">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>network</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Number of computers that are connected together so that they can share information.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сеть</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-092">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>component tests</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Tests of the behavior of several components of the application.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тесты компонентов</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-093">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>colleagues</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">People you work with in a job.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коллеги</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-094">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>revert</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">Return to a previous state or condition.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>отменить</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-095">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>extreme programming</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A software engineering methodology prescribing a set of daily stakeholder practices taken to extreme levels.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>экстремальное программирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-096">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>refactoring</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Making a series of small, incremental changes that improve your code without changing your application's behavior.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>рефакторинг</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-097">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>architecture</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Structure and organization of computer systems.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>архитектура</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-098">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>productivity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">State of being efficient and productive.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>продуктивность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-099">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>reports</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A spoken or written description of an event or situation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>отчеты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-100">
+        <descrip type="subjectField">Информационные технологии: разработка ПО и DevOps</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>workload</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The amount of work assigned to a particular worker.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нагрузка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

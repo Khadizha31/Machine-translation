@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01-generator" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261017T172624Z"/>
+  <body>
+    <tu tuid="1" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>This regular deployment gave them many advantages.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Регулярное развертывание предоставляло им ряд преимуществ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The foundation for the approach, at least for the development team, is Continuous Integration (CI).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Фундаментом непрерывного развертывания (как минимум для команды разработчиков) служит концепция непрерывной интеграции (Continuous Integration – CI).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Every organization will have differences in the implementation of their deployment pipelines, depending on their value stream for releasing software, but the principles that govern them do not vary.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Конвейеры развертывания могут быть организованы по-разному, в зависимости от технологических особенностей поставки релизов, однако фундаментальные принципы непрерывного развертывания одинаковы в любых ситуациях.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>One of the first steps in the pipeline is to create binaries and installers.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Начальная стадия конвейера – создание бинарных кодов и инсталляторов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Each test that the release candidate passes gives us more confidence that this particular combination of binary code, configuration information, environment, and data will work.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Каждый тест увеличивает вероятность того, что текущая комбинация бинарных кодов, конфигураций, рабочей среды и данных будет работать безупречно.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Second, it improves feedback so that problems are identified, and so resolved, as early in the process as possible.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Во-вторых, конвейер улучшает обратную связь, делая каждую проблему идентифицируемой и решаемой на возможно более ранней стадии процесса.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Configuration information is copied or created through the admin consoles of web servers, applications servers, or other third-party components of the system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Конфигурационная информация копируется или создается администраторами веб-серверов, серверов приложений и сторонних компонентов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The day of a software release tends to be a tense one.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обычно день поставки релиза самый напряженный день всего рабочего процесса.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Many organizations release software manually.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Многие организации развертывают ПО вручную.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Even if this is not the case, differences in the ordering and timing of these steps can lead to different outcomes.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>И даже если не произойдет ошибок, различия в принципах управления разными стадиями приводят к нестабильным результатам.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The production of extensive, detailed documentation that describes the steps to be taken and the ways in which the steps may go wrong.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Продуцирование большого объема документации, в которой подробно описывается, что нужно сделать и что может получиться неправильно.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Frequent calls to the development team to explain why a deployment is going wrong on a release day.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Частые обращения к команде разработчиков для получения объяснений, почему в день поставки релиза приложение работает не так, как предполагается.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Releasing packaged software should involve a single automated process.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Выпуск пакета ПО должен быть одним автоматизированным процессом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>If testers have been involved in the process up to this point, they have tested the system on development machines.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если в процессе разработки ПО участвовали тестировщики, они уже протестировали систему в среде разработки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>When working on a new application, the first deployment to staging is likely to be the most troublesome.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При работе с новым приложением больше всего проблем возникает при первом развертывании в отладочной среде.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Changes should be made in version control and then propagated to production through an automated process.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Изменения должны выполняться посредством системы управления версиями, а затем автоматически распространяться на рабочую среду.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Almost every release involves last-minute changes, such as fixing the database login details or updating the URL for an external service.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Почти в каждый релиз в последнюю минуту вносятся небольшие изменения, такие как исправление процедуры регистрации в базе данных, обновление URL-адреса внешней службы и т.п.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>It should be possible to use the same automated process to roll back to a previous version of production if the deployment goes wrong.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если развертывание прошло неудачно, этот же автоматический процесс должен предоставлять возможность отката к предыдущей версии рабочей среды.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>It is therefore vital to minimize cycle time so that an effective feedback loop can be established.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Следовательно, очень важно минимизировать продолжительность цикла, чтобы существовала эффективная обратная связь между этапами разработки и применения ПО.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>A working software application can be usefully decomposed into four components: executable code, configuration, host environment, and data.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Работающее приложение иногда полезно условно разделить на четыре компонента: исполняемый код, конфигурация, рабочая среда и данные.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Therefore, we need to keep all four of these components under control and ensure that a change in any one of them is verified.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Следовательно, нужно контролировать все четыре компонента и обеспечить возможность верификации при каждом изменении любого из них.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Executable code changes when a change is made to the source code.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Исполняемый код изменяется вместе с исходным кодом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Every time a change is made to the source code, the resulting binary must be built and tested.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При каждом изменении в исходном коде результирующий двоичный код нужно заново скомпоновать и протестировать.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>This checks that the application performs sufficiently well in terms of capacity, availability, security, and so on to meet its users' needs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это означает, что тест должен проверить производительность, доступность, безопасность и другие параметры приложения, не связанные напрямую с деловой логикой.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The software must go through exploratory testing and a demonstration to the customer and a selection of users.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Приложение должно быть подвергнуто исследовательскому тестированию и продемонстрировано заказчику и группе пользователей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>If any of them fails, it means our application has a critical fault and should not be released under any circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если любой тест терпит крах, значит, приложение содержит критическую ошибку и не должно быть пропущено на стадию выпуска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>That means that a test to check the color of a UI element should not be included in this set of tests.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это означает, например, что в данный набор не должно быть включено тестирование цвета какого-либо элемента пользовательского интерфейса.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>This organization of the testing process means that we have a high level of confidence in the software after the first set of tests, which run fastest on the cheapest hardware.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Такая схема тестирования обеспечивает достаточно высокий уровень проверки уже на первых стадиях тестов, когда они выполняются быстро и на дешевом оборудовании.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The goals of lean manufacturing are to ensure the rapid delivery of high-quality products, focusing on the removal of waste and the reduction of cost.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цель бережливого производства быстрая поставка высококачественного продукта с акцентом на удалении лишних компонентов и минимизации стоимости.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The ability to easily deploy any version of the software into any environment has many advantages.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возможность легко развернуть любую версию в любой среде предоставляет ряд преимуществ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Releases can be performed at the push of a button.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Новые версии устанавливаются путем щелчка на кнопке.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The flexibility that our deployment tools offer to them changes the way that they work – for the better.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гибкость, предоставляемая инструментами развертывания, повышает качество работы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The analysts who capture the requirements can misunderstand.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аналитики, формулирующие требования к продукту, могут неправильно понимать их.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>In our experience, this dependence on manual configuration management is common.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Зависимость проектов от ручного управления конфигурациями встречается довольно часто.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Even the configuration of the compiler may change the behavior of the application.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Даже конфигурация компилятора может изменить поведение приложения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Most approaches to releasing software identify release candidates at the end of the process.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В большинстве концепций развертывания ПО релиз-кандидат определяется в конце процесса.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>If the resulting product is found to be free of defects, and it meets the acceptance criteria set out by the customer, then it can be released.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Результирующий продукт может стать релизом, если он свободен от дефектов и удовлетворяет приемочным критериям, установленным заказчиком.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The developers have forgotten what they were doing at the time when they introduced the defect, and the functionality may have changed in the meantime.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Разработчики не помнят, что они делали и какими соображениями руководствовались в момент, когда был введен дефект, а функциональность со временем может измениться.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Second, it allows teams that may be distributed across space and time to collaborate.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Во-вторых, она предоставляет возможность сотрудничать друг с другом командам, вовлеченным в процесс развертывания и разделенным в пространстве и времени.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>These are the fundamentals of version control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это основы управления версиями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>This should include configuration information for your application's software stack and the operating systems.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сюда относится конфигурационная информация стека приложений, операционные системы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>This allows you to recover an exact snapshot of the state of the entire system, from development environment to production environment, at any point in the project's history.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это позволит воссоздать точный снимок состояния всей системы, от среды разработки до рабочей среды на любом этапе проекта.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>It is even helpful to keep the configuration files for the development team's development environments in version control since it makes it easy for everyone on the team to use the same settings.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Полезно также хранить в системе управления версиями конфигурационные файлы среды разработки, чтобы облегчить каждой команде извлечение и применение унифицированных конфигурационных параметров.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Analysts should store requirements documents.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аналитики должны хранить документацию, определяющую требования к системе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Testers should keep their test scripts and procedures in version control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Тестировщики должны хранить свои процедуры и сценарии тестирования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Project managers should save their release plans, progress charts, and risk logs here.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Менеджеры проекта должны сохранять свои планы выпуска версий, графики хода работ и журналы рисков.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Every member of the team should store any document or file related to the project in version control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Каждый член команды должен сохранять любой документ или файл, связанный с проектом, в системе управления версиями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The subsystems that each team was working on communicated with one another using a proprietary message protocol via IBM MQSeries.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Подсистемы, над которыми работала каждая команда, сообщались друг с другом посредством патентованного протокола сообщений IBM MQSeries.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>In addition to storing source code and configuration information, many projects also store binary images of their application servers, compilers, virtual machines, and other parts of their toolchain in version control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Кроме исходных кодов и конфигурационной информации в системах управления версиями хранятся двоичные образы серверов приложений, компиляторов, виртуальных машин и другие инструменты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>This freedom to delete is in itself a significant step forward in the maintainability of a large configuration set.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Свобода удалять ненужное — уже огромный шаг вперед в направлении лучшей управляемости больших наборов конфигураций.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>A solution that some people use to resolve this dilemma is to create a separate branch within the version control system for new functionality.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Для решения этой дилеммы можно создать в системе управления версиями отдельную ветвь для новых функций.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Every version control system has the facility to add a description to your commit.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Каждая система управления версиями предоставляет возможность добавлять описание при фиксации изменения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>That change can save you hours of debugging.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оно сэкономит много часов, потраченных на отладку кода.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Libraries are typically deployed in the form of binary files, are never changed by your application's development team.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Библиотеки обычно развертываются в виде двоичных файлов и никогда не изменяются командой разработчиков.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Components and modules are typically under active development by other teams and change quite frequently.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Компоненты и модули обычно находятся на стадии активной разработки другими командами и часто изменяются.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>We recommend that you keep copies of your external libraries somewhere locally.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Мы рекомендуем хранить копии внешних библиотек локально.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>External libraries usually come in binary form, unless you're using an interpreted language.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обычно внешние библиотеки поставляются в двоичном виде, за исключением случаев, когда используются интерпретируемые языки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>External libraries are normally installed globally on your system by a package management system such as Ruby Gems or Perl modules.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Внешние библиотеки, как правило, устанавливаются в систему глобально с помощью, например, пакетов Ruby Gems или модулей Perl.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>It makes it much easier to correlate versions of your software with the versions of the libraries that were used to build them.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если хранить их, то будет значительно легче согласовывать версии приложения с версиями библиотек, используемых для сборки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>It's good practice to split all but the smallest applications into components.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Рекомендуется разбить каждое приложение (кроме самых маленьких) на отдельные компоненты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Recompiling dependencies is not only less efficient; it also means you're creating an artifact that is potentially different from the one that you already tested.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Перекомпиляция зависимостей не только малоэффективна, она также приводит к появлению компонентов, отличающихся от тех, которые уже протестированы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Configuration information can be used to change the behavior of software at build time, deploy time, and run time.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Конфигурационную информацию можно использовать для управления поведением программы на этапах компиляции, развертывания и выполнения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>There are many significant pitfalls on the road to highly configurable software, but perhaps the worst are the following.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На пути к повышенной конфигурируемости приложения есть много ловушек, но самые коварные, как нам кажется, следующие.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Modern computer languages have evolved all sorts of characteristics and techniques to help them reduce errors.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Современные языки программирования обладают богатым набором средств, помогающих уменьшить количество ошибок.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>There are a few obvious choices for where to store your application configuration: a database, a version control system, or a directory or registry.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Существует всего несколько очевидных вариантов хранения конфигурационной информации приложения: база данных, система управления версиями и реестр (или каталог).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>It is worth keeping a list of the available configuration options for your application in the same repository as its source code.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Рекомендуется хранить список доступных конфигурационных параметров приложения в том же хранилище, в котором находится исходный код.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Your application can access its configuration via a file on its local filesystem.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Приложение может иметь доступ к конфигурации посредством файла в локальной файловой системе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>This separation is particularly relevant for security-related configuration elements, such as passwords and digital certificates, to which access should be restricted.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Раздельное хранение особенно полезно для конфигурационных параметров, связанных с безопасностью, например паролей и цифровых сертификатов, доступ к которым должен быть ограничен.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>If you must store your password somewhere other than the inside of your head, you could try putting them in your home directory in an encrypted form.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если уж нужно сохранить где-нибудь пароль, сохраните его в своем домашнем каталоге в зашифрованном виде.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>There are several acceptable ways to handle authentication for a multilayer system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В многослойных системах существует несколько допустимых способов аутентификации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Databases, directories, and registries are convenient places to store configuration since they can be accessed remotely.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Базы данных, каталоги и реестры удобные места для хранения конфигурационной информации, потому что они поддерживают удаленный доступ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>However, make sure to keep the history of changes to configuration for the purposes of audit and rollback.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Однако нужно хранить историю изменений конфигураций для целей аудита и откатов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Have a script that loads the appropriate version into your database or directory on demand.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Создайте сценарий, загружающий соответствующую версию в базу данных или каталог по требованию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>There is also the problem of keeping configuration on filesystems in sync if, for example, you need to run your application on a cluster.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Кроме того, в этом случае нужно решить проблемы синхронизации конфигураций в разных файловых системах, например когда приложение выполняется в кластере.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Each configuration setting can be modeled as a tuple.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Каждый конфигурационный параметр может быть представлен как запись в базе данных.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The second stage is to actually run some smoke tests once your application is installed to make sure it is operating as expected.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вторая стадия – фактическое выполнение дымовых тестов, когда приложение установлено.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Ideally, these tests should stop the application and fail the installation or deployment process if the results are not as expected.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В идеале каждый такой тест должен остановить приложение и отменить процесс инсталляции или развертывания, если результаты отличаются от ожидаемых.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Consider where in your application's lifecycle it makes sense to inject a particular piece of configuration.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Проанализируйте, в какой точке жизненного цикла приложения лучше ввести в него порцию конфигурационной информации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Every application depends on hardware, software, infrastructure, and external systems in order to work.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Работа каждого приложения зависит от оборудования, программного обеспечения, инфраструктуры и внешних систем.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>For example, you may have an application that relies on a large number of file descriptors being available.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Например, приложение может зависеть от доступности большого количества дескрипторов файлов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>One small change can break the whole application or severely degrade its performance.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Одно небольшое изменение может разрушить все приложение или существенно ухудшить его производительность.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>It should always be cheaper to create a new environment than to repair an old one.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Всегда дешевле создать новую среду, чем отладить старую.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The additional software packages that need to be installed on each environment to support your application, including their versions and configuration.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Дополнительные пакеты ПО, которые должны быть установлены в каждой среде для поддержки приложения, включая их версии, параметры и конфигурации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The networking topology required for your application to work.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Топология сетей, необходимых для работы приложения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Your automated environment provisioning system should be able to establish, or reestablish, any given baseline that has existed in the recent history of your project.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Система автоматического создания сред должна уметь устанавливать и переустанавливать любую заданную базовую среду, существовавшую когда-либо в проекте.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Instead of creating a new environment from scratch using an automated process, you can simply take a copy of each box in your environment and store it as a baseline.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вместо создания новой среды с нуля, можно извлечь копию каждого компонента среды и сохранить ее в качестве базового компонента.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>The goal of continuous integration is that the software is in a working state all the time.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Главная цель непрерывной интеграции заключается в том, чтобы приложение постоянно находилось в работоспособном состоянии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>You must be able to start your build from the command line.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обязательно нужно иметь возможность запускать сборку приложения из командной строки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Your build scripts should be treated like your codebase.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Со сценариями сборки нужно работать так же, как и с кодовой базой.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>However, there are three kinds of tests we are interested in running from our continuous integration build: unit tests, component tests, and acceptance tests.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Однако существуют три типа тестов, интересных с точки зрения непрерывной интеграции: модульные тесты, тесты компонентов и приемочные тесты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>They do not hit the database (if your application has one), the filesystem, or the network.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Они не покрывают базу данных (если она используется в приложении), файловую систему или сеть.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Component tests typically take longer to run.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Тесты компонентов выполняются, как правило, дольше модульных.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>All your colleagues are walking out of the door, and you have just committed your changes.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Все ваши коллеги дружно собирают вещи, а вы только что зафиксировали ваши изменения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Assume that you may break something that will take more than a few minutes, and know what to do to revert the changes and get back to the known-good revision in version control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Предполагайте, что в любой момент может произойти ошибка, на исправление которой может уйти несколько минут, и будьте готовы отменить изменение и вернуться к последней хорошей версии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Continuous integration is one of the twelve core extreme programming practices.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Непрерывная интеграция это одна из двенадцати базовых методик экстремального программирования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>CI and test-driven development enable refactoring by assuring you that your changes don't alter the existing behavior of the application.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Непрерывная интеграция и разработка через тестирование способствуют рефакторингу кодов тем, что они гарантируют неизменность поведения кода.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Sometimes there are aspects of the architecture of a system that are too easy for developers to forget.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Часто архитектура системы обладает некоторыми особенностями, о которых разработчики быстро забывают.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>Time and time again we have seen it make a step change to the productivity of software development teams.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Снова и снова мы убеждаемся в том, что это важнейший шаг в направлении повышения продуктивности команды.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>A system of reference for reports and installers for your testing team.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Система ссылок для инсталляторов и отчетов, необходимая команде тестировщиков.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100" creationdate="20261017T172624Z">
+      <prop type="domain">Информационные технологии: разработка ПО и DevOps</prop>
+      <tuv xml:lang="en">
+        <seg>They reduce the workload on testers.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Они уменьшают нагрузку на тестировщиков.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
